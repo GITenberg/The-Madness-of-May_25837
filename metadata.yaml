@@ -1,0 +1,37 @@
+_repo: The-Madness-of-May_25837
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Steele, Frederic Dorr
+    alias: Steele, Frederick Dorr
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '31609'
+    url: http://www.gutenberg.org/2009/agents/31609
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
+description: A story to be read by all honest lovers of romance in terms of whimsy.
+  It is altogether spirited and delightful, a masterful fantasy released from the
+  sober interpretation of American life and character.
+gutenberg_issued: '2008-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'New York (State) -- Fiction'
+title: The Madness of May
+url: http://www.gutenberg.org/ebooks/25837
